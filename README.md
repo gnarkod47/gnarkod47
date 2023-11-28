@@ -4,7 +4,7 @@
 
 🌐 Currently honing my skills in the realm of computer science, I'm always eager to learn and explore new technologies. If you're into coding, let's connect and share our coding adventures! I'm open to collaborations, discussions, and building cool projects together.
 
-📧 Reach out to me via email at gnarkod123@gmail.com or Instagram @gautham_narkodu. Don't hesitate to drop a message – whether it's about programming, tech, or just to say hi, I'm all ears!
+📧 Reach out to me via email at gnarkod123@gmail.com or on Instagram @gautham_narkodu. Don't hesitate to drop a message – whether it's about programming, tech, or just to say hi, I'm all ears!
 
 🚀 Let's code, create, and embark on this exciting journey together. Looking forward to connecting with fellow coding enthusiasts and making new friends in the vast world of programming!
 <!---
